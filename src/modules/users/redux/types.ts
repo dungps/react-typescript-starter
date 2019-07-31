@@ -1,0 +1,7 @@
+export const ACCOUNT_LOGOUT = "@workevo/account_logout"
+export const ACCOUNT_LOGIN = "@workevo/account_login"
+export const ACCOUNT_LOGIN_SUCCESS = "@workevo/account_login_success"
+export const ACCOUNT_GET_ME = "@workevo/account_get_me"
+export const ACCOUNT_GET_ME_SUCCESS = "@workevo/account_get_me_success"
+export const ACCOUNT_LOGIN_FAIL = "@workevo/account_login_fail"
+export const ACCOUNT_GET_ME_FAIL = "@workevo/account_get_me_fail"
